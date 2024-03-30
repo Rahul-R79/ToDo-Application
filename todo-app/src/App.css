@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+@font-face {
+  font-family: "baloopaaji2-regular";
+  src: url('./assets/fonts/baloopaaji2-regular-webfont.woff') format("woff"),
+      url('./assets/fonts/baloopaaji2-regular-webfont.woff2') format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+  font-family: "baloopaaji2-regular";
+}
